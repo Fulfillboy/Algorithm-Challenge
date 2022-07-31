@@ -1,0 +1,145 @@
+#increment-btn{
+    background-color: yellow;
+    color:black;
+    font-size: 15px;
+}
+
+#save-btn{
+    background-color: green;
+    display:block;
+    color:white;
+    font-size: 15px;
+}
+
+#welcome-btn{
+    background-color: teal;
+    display:block;
+    color:white;
+    font-size: 15px;
+}
+
+#attn-btn{
+    background-color: blue;
+    display:block;
+    color:white;
+    font-size: 15px;
+}
+button{
+    margin: 5px;
+    border-radius: 6px;
+    padding: 5px 15px;
+}
+h2{
+    margin:5px;
+}
+
+img{
+    height:10em;
+    width:9em;
+}
+
+#num1-el, #num2-el{
+    margin-left: 100px;
+    text-decoration: underline;
+}
+
+#blackjack{
+    color:goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#sum-el, #card-el{
+    font-size: 15px;
+}
+
+#game-btn{
+    color:#016f32;
+    width: 150px;
+    background:goldenrod;
+    height:35px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+}
+#new-card{
+    display:block;
+    color:#016f32;
+    width: 150px;
+    background:goldenrod;
+    height:35px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+}
+
+#orange-shelf{
+    color:white;
+    display:block;
+    border:none;
+    width: 100px;
+    background-color:orange;
+    margin:3px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+  
+}
+
+#apple-shelf{
+    color:white;
+    display:block;
+    border:none;
+    width: 100px;
+    background-color: lightgreen;
+    margin:3px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#mango-shelf{
+    color:white;
+    border:none;
+    width: 100px;
+    background-color: yellow;
+    margin:3px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+input{
+    width:100%;
+    padding-left:10px;
+    padding-right:10px;
+    box-sizing: border-box;
+    height: 30px;
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+}
+#input-btn{
+    background:#5f9341;
+    font-weight: bold;
+    color:white;
+    margin-left:3px;
+    border:none;                        
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+li{
+ margin-top:5px;
+}
+
+a{
+ /* text-decoration: none; */
+ color:#5f9341;
+}

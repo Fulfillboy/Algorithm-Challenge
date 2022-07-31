@@ -1,0 +1,56 @@
+:root{
+    --clr-primary-1: hsl(203, 57%, 27%);
+    --clr-primary-2: hsl(150, 100%, 99%);
+    --clr-primary-3: hsl(163, 92%, 65%);
+    --clr-primary-4: hsl(102, 10%, 80%);
+    --clr-primary-5:hsl(263, 93%, 49%);
+    
+}
+
+main{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+h2{
+color:var(--clr-primary-4);
+}
+
+p{
+    color:var(--clr-primary-2);
+    font-size:20px;
+    letter-spacing: 2px;
+}
+
+.header-center{
+    place-items: center;
+    display:block;
+    text-align: center;
+    background: var(--clr-primary-1);
+    margin:25%;
+    padding:15px;
+    border-radius: 8px;
+    box-shadow: 5px 9px rgb(33, 15, 45, 0.1);
+    
+}
+
+span#date1{
+    color: var(--clr-primary-2);
+    letter-spacing: 2px;
+}
+
+span#date2{
+    color: var(--clr-primary-3);
+    letter-spacing: 2px;
+}
+
+.btn{
+    background:var(--clr-primary-2);
+    padding:10px;
+    margin:10px;
+    width: 65px;
+    border-radius: 6px;
+    font-size: 1.25rem;
+    color:var(--clr-primary-5);
+    border:none;
+}

@@ -1,0 +1,98 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+    
+}
+
+/* nav{
+   background:whitesmoke;
+   box-shadow: 0 0 6px 0 rgba(0,0,0,0.2);
+}
+
+nav div{
+    display:flex;
+    justify-content: space-between;
+}
+
+ul li{
+    display:inline-flex;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+div h4{
+    margin-left:30%;
+    font-family:cursive;
+    color: skyblue;
+    font-weight: bold;
+    
+}
+
+div ul li:first-child{
+    margin-left:200px;
+    margin:10px;
+  
+}
+
+div ul li:nth-child(2){
+    margin-right:400px;
+    
+}
+
+div ul li a{
+    text-decoration: none;
+    color:black;
+} */
+
+.container{
+    display:block;
+    margin:15px 25px;
+    /* margin-top: 0%; */
+    padding:25%;
+}
+
+
+.container h1{
+/* background-color: black; */
+padding:20px 50px;
+border-radius: 8px;
+font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    color:black;
+    text-align: center;
+    margin-left:180px;
+    font-size: 100px;
+    font-weight: bold;
+}
+span{
+    text-align: center;
+    padding:396px;
+    font-size: 100px;
+    
+    /* margin: 40px 0; */
+}
+
+.button-container{
+    border-radius: 5px;
+    padding: 8px 10px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left:250px;
+}
+
+
+button{
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+   
